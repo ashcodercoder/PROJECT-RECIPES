@@ -1,19 +1,13 @@
 body {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size: medium;
-	width:75%;
-	background-color:#ff80b3;
-	margin:auto;
-}
-h1 {
-	font-size: 200%;
-	}
-h2 {
-	font-size:150%;
-}
-header{
 	margin: auto;
-	width: 5%;
+	width: 80%;
+}
+
+main {
+	padding: 10px;
+	margin: 30px;
 }
 
 button {
@@ -39,6 +33,7 @@ button:active {
 	position:relative;
 	top:1px;
 }
+
 footer{
 	font-size: 0.7em;
 	}
