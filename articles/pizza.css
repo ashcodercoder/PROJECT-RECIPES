@@ -3,6 +3,7 @@ body {
 	font-size: medium;
 	margin: auto;
 	width: 80%;
+background-color:#A59577;
 }
 
 header {
@@ -42,4 +43,5 @@ button:active {
 
 footer{
 	font-size: 0.7em;
+text-align:center;
 	}
